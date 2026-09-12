@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 
+Sitemap: https://sanek25m-lgtm.github.io/portal-sitemap.xml
 Sitemap: https://sanek25m-lgtm.github.io/kod-kupona/sitemap.xml
 Sitemap: https://sanek25m-lgtm.github.io/coupon-website/sitemap.xml
